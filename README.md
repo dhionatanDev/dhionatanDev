@@ -39,4 +39,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Dhionata-n&repo=Dhionata-n&theme=react)](https://github.com/Dhionata-n/Dhionata-n)
+
