@@ -35,11 +35,8 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+  ![Snake animation](https://github.com/Dhionata-n/Dhionata-n/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Dhionata-n&repo=Dhionata-n&theme=react)](https://github.com/Dhionata-n/Dhionata-n)
