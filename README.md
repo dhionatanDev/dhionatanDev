@@ -7,9 +7,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/Dhionata-n">
+  <a href="https://github.com/dhionatanDev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dhionata-n&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhionata-n&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhionatanDev&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Dhionata-n/Dhionata-n/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dhionatanDev/dhionatanDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
