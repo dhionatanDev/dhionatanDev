@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dhionatanbarbosa/"><i>Dhionatan P. Barbosa</i></a> 😃️</h1>
-  <p align="center">Estudo Engenharia de Software no <a href="https://senaigoias.com.br/faculdade-fatesg/"><i>Senai</i></a> 
+  <p align="center">Estudo Engenharia de Software no <a href="https://senaigoias.com.br/faculdade-fatesg"><i>Senai</i></a> 
     
 </div>
 
